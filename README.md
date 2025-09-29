@@ -35,7 +35,7 @@ I am a mathematician and statistician with deep expertise in quantitative method
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/donna-glassbrenner-ph-d)  
-- [Portfolio](https://glassbrenner1.github.io)
+- [Portfolio](https://dglassbrenner1.github.io)
 
 ---
 
