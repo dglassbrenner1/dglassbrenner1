@@ -26,7 +26,8 @@ I am a mathematician and statistician with deep expertise in quantitative method
 ## 📂 Featured Projects & Portfolio
 
 - [my-posts-on-fraud-detection](https://github.com/dglassbrenner1/my-posts-on-fraud-detection) — Explorations and tutorials on supervised machine learning with focus on fraud detection  
-- [db_fraud_detection](https://github.com/dglassbrenner1/db_fraud_detection) — Databricks interactive dashboard for monitoring fraud analytics  
+- [db_fraud_detection](https://github.com/dglassbrenner1/db_fraud_detection) — Databricks interactive dashboard for monitoring fraud analytics
+- [hf_fraud_detection_space](https://github.com/dglassbrenner1/hf_fraud_detection_space) — Hugging Face Space deployment of XGBoost fraud detection model with Streamlit API
 - [Kaggle-predicting-optimal-fertilizers](https://github.com/dglassbrenner1/Kaggle-predicting-optimal-fertilizers) — Data science solution for a Kaggle prediction challenge  
 - [glassbrenner1.github.io](https://glassbrenner1.github.io) — Portfolio website featuring my math, statistics, and data science work (under construction)
 
