@@ -1,4 +1,4 @@
-# Hi, I'm Donna Glassbrenner, Ph.D. 👋
+# Hi, I'm Donna Glassbrenner 👋
 
 I am a mathematician and statistician with deep expertise in quantitative methods, transitioning into the data science field to leverage my skills in solving real-world problems through data.
 
