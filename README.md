@@ -1,6 +1,6 @@
 # Hi, I'm Donna Glassbrenner 👋
 
-I am a mathematician and statistician with deep expertise in quantitative methods, transitioning into the data science field to leverage my skills in solving real-world problems through data.
+I am a data scientist grounded in mathematics and statistics, with extensive expertise in extracting actionable insights and quantifying uncertainty. My rigorous analytical approach enables me to tailor solutions that meet specific objectives while accommodating the challenges of messy and imperfect data.
 
 ---
 
