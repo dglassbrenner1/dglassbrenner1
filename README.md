@@ -29,7 +29,7 @@ I am a data scientist grounded in mathematics and statistics, with extensive exp
 - [db_fraud_detection](https://github.com/dglassbrenner1/db_fraud_detection) — Databricks interactive dashboard for monitoring fraud analytics
 - [hf_fraud_detection_space](https://github.com/dglassbrenner1/hf_fraud_detection_space) — Hugging Face Space deployment of XGBoost fraud detection model with Streamlit API
 - [Kaggle-predicting-optimal-fertilizers](https://github.com/dglassbrenner1/Kaggle-predicting-optimal-fertilizers) — Data science solution for a Kaggle prediction challenge  
-- [glassbrenner1.github.io](https://glassbrenner1.github.io) — Portfolio website featuring my math, statistics, and data science work (under construction)
+- [dglassbrenner1.github.io](https://dglassbrenner1.github.io) — Portfolio website featuring my math, statistics, and data science work (under construction)
 
 ---
 
