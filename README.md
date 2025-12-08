@@ -1,58 +1,45 @@
 # Hi, I'm Donna Glassbrenner 👋
 
-I am a mathematician and statistician with deep expertise in quantitative methods, transitioning into the data science field to leverage my skills in solving real-world problems through data.
+Statistician, Data Scientist, and Data Analyst with 20+ years of experience using math and statistics to drive data-informed decisions, now focusing on fraud detection and socially impactful analytics in education and health/safety.
 
 ---
 
 ## 🔍 About Me
 
-- Strong foundation in math and statistics that allows me to rigorously analyze data and adapt advanced methods to complex challenges.
-- Passionate about learning new tools and techniques in data science, with a focus on applying theoretical understanding to practical problems.
-- Collaborative by nature, I enjoy working across disciplines to develop innovative solutions.
-- Experienced in quantifying prediction uncertainty and other statistical rigor that enhances data-driven decision-making.
+- Proven track record with 21 awards for innovative analyses and cross-functional collaboration.
+- Rare combination of deep mathematics and statistics with applied machine learning experience, providing a comprehensive analytical toolkit.
+- Experienced across the full data analysis lifecycle: formalizing ambiguous objectives, addressing data challenges (reporting lag, missing data, rare events), resolving analytical issues (confounding, uncertainty), and translating results into big-picture implications.
+- Passionate about using custom statistical and analytical solutions where cookie-cutter or "Stats 101/AI" approaches fall short.
 
 ---
 
-## 🛠️ Technical Interests & Experience
+## 🧪 Focus Areas & Interests
 
-- Developing skills in data science techniques including supervised learning, hyperparameter tuning, and imbalance learning.
-- Practical exposure to data wrangling and transformation using PySpark and SQL.
-- Exploring experiment tracking and model management with MLflow.
-- Building interactive dashboards and visualizations using Databricks and Tableau.
-- Committed to expanding my portfolio with projects illustrating both statistical theory and applied data science.
-
----
-
-## 📂 Featured Projects & Portfolio
-
-- [my-posts-on-fraud-detection](https://github.com/dglassbrenner1/my-posts-on-fraud-detection) — Explorations and tutorials on supervised machine learning with focus on fraud detection  
-- [db_fraud_detection](https://github.com/dglassbrenner1/db_fraud_detection) — Databricks interactive dashboard for monitoring fraud analytics
-- [hf_fraud_detection_space](https://github.com/dglassbrenner1/hf_fraud_detection_space) — Hugging Face Space deployment of XGBoost fraud detection model with Streamlit API
-- [Kaggle-predicting-optimal-fertilizers](https://github.com/dglassbrenner1/Kaggle-predicting-optimal-fertilizers) — Data science solution for a Kaggle prediction challenge  
-- [glassbrenner1.github.io](https://glassbrenner1.github.io) — Portfolio website featuring my math, statistics, and data science work (under construction)
+- Fraud detection: combining supervised ML with advanced statistical methods for better predictions and deeper insights.
+- Custom data analyses: hypothesis testing, experimental design, uncertainty quantification, and complex sample designs.
+- Safety and risk analysis: vehicle safety, rare-event modeling, and impact estimation.
+- **Tools: Python (numpy, pandas, matplotlib), SQL, Tableau**
 
 ---
 
-## 📫 Connect with Me
+## 📂 Selected Projects & Portfolio
 
-- [LinkedIn](https://www.linkedin.com/in/donna-glassbrenner-ph-d)  
-- [Portfolio](https://dglassbrenner1.github.io)
+- [squeezing-more-info-out-of-fraud-data-w-statistics](https://github.com/dglassbrenner1/squeezing-more-info-out-of-fraud-data-w-statistics) – Using statistical anomaly detection to complement ML fraud models.
+- [how-bad-could-this-emergent-fraud-be](https://github.com/dglassbrenner1/how-bad-could-this-emergent-fraud-be) – Quantifying emergent fraud risk; shows where "AI/Stats 101" underestimates uncertainty by ~30%.
+- [The Math Behind Fraud Detection with Logistic Regression](https://www.linkedin.com/posts/activity-7381712530001387521-W2Cx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmtAVkBHB1hBzAhZv0QLtcY55Q_sKSUiMk/) – Math foundations for adapting logistic regression to fraud data and business objectives.
+- [my-posts-on-fraud-detection](https://github.com/dglassbrenner1/my-posts-on-fraud-detection) – Series on supervised ML for fraud detection, emphasizing business objectives, metrics, and underlying math.
+- [db_fraud_detection](https://github.com/dglassbrenner1/db_fraud_detection) – Databricks dashboard for monitoring fraud analytics and model performance.
+- [hf_fraud_detection_space](https://github.com/dglassbrenner1/hf_fraud_detection_space) – Hugging Face Space deployment of an XGBoost fraud detection model with a Streamlit UI.
+- [glassbrenner1.github.io](https://glassbrenner1.github.io) – Portfolio site featuring my math, statistics, fraud, and safety analytics work.
+
+For a curated view of these and other projects, visit my portfolio:  
+➡️ [https://dglassbrenner1.github.io](https://dglassbrenner1.github.io)
 
 ---
 
-Thanks for visiting my profile! I welcome collaboration and discussion on any projects or ideas at the intersection of math, statistics, and data science.
+## 📫 Connect
 
-<!--
-**dglassbrenner1/dglassbrenner1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- LinkedIn: [Donna Glassbrenner, Ph.D.](https://www.linkedin.com/in/donna-glassbrenner-ph-d)
+- Portfolio: [dglassbrenner1.github.io](https://dglassbrenner1.github.io)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am seeking fully remote, no-travel roles in fraud detection, educational technology, or health and safety, and I'm also open to consulting engagements through Analysis Insights, LLC.
