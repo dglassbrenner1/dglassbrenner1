@@ -30,7 +30,7 @@ Statistician, Data Scientist, and Data Analyst with 20+ years of experience usin
 - [my-posts-on-fraud-detection](https://github.com/dglassbrenner1/my-posts-on-fraud-detection) – Series on supervised ML for fraud detection, emphasizing business objectives, metrics, and underlying math.
 - [db_fraud_detection](https://github.com/dglassbrenner1/db_fraud_detection) – Databricks dashboard for monitoring fraud analytics and model performance.
 - [hf_fraud_detection_space](https://github.com/dglassbrenner1/hf_fraud_detection_space) – Hugging Face Space deployment of an XGBoost fraud detection model with a Streamlit UI.
-- [glassbrenner1.github.io](https://glassbrenner1.github.io) – Portfolio site featuring my math, statistics, fraud, and safety analytics work.
+- [dglassbrenner1.github.io](https://dglassbrenner1.github.io) – Portfolio site featuring my math, statistics, fraud, and safety analytics work.
 
 For a curated view of these and other projects, visit my portfolio:  
 ➡️ [https://dglassbrenner1.github.io](https://dglassbrenner1.github.io)
