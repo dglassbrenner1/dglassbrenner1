@@ -26,6 +26,7 @@ Statistician, Data Scientist, and Data Analyst with 20+ years of experience usin
 
 - [squeezing-more-info-out-of-fraud-data-w-statistics](https://github.com/dglassbrenner1/squeezing-more-info-out-of-fraud-data-w-statistics) – Using statistical anomaly detection to complement ML fraud models.
 - [how-bad-could-this-emergent-fraud-be](https://github.com/dglassbrenner1/how-bad-could-this-emergent-fraud-be) – Quantifying emergent fraud risk; shows where "AI/Stats 101" underestimates uncertainty by ~30%.
+- [Medical Upcoding Analysis](https://raw.githubusercontent.com/dglassbrenner1/medical-upcoding-save-tens-of-thousands-per-yr/main/how-a-self-funded-employer-could-save-tens-of-thousands-per-yr.html) - A demonstration on synthetic claims data of how a self-funded employer could refute an upcoding provider's false statistical claim of that their charges are similar to comparable providers
 - [The Math Behind Fraud Detection with Logistic Regression](https://www.linkedin.com/posts/activity-7381712530001387521-W2Cx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmtAVkBHB1hBzAhZv0QLtcY55Q_sKSUiMk/) – Math foundations for adapting logistic regression to fraud data and business objectives.
 - [my-posts-on-fraud-detection](https://github.com/dglassbrenner1/my-posts-on-fraud-detection) – Series on advanced ML for fraud detection, emphasizing business objectives, metrics, and underlying math.
 - [db_fraud_detection](https://github.com/dglassbrenner1/db_fraud_detection) – Databricks dashboard for monitoring fraud analytics and model performance.
