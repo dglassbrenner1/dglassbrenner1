@@ -27,7 +27,7 @@ Statistician, Data Scientist, and Data Analyst with 20+ years of experience usin
 - [squeezing-more-info-out-of-fraud-data-w-statistics](https://github.com/dglassbrenner1/squeezing-more-info-out-of-fraud-data-w-statistics) – Using statistical anomaly detection to complement ML fraud models.
 - [how-bad-could-this-emergent-fraud-be](https://github.com/dglassbrenner1/how-bad-could-this-emergent-fraud-be) – Quantifying emergent fraud risk; shows where "AI/Stats 101" underestimates uncertainty by ~30%.
 - [The Math Behind Fraud Detection with Logistic Regression](https://www.linkedin.com/posts/activity-7381712530001387521-W2Cx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmtAVkBHB1hBzAhZv0QLtcY55Q_sKSUiMk/) – Math foundations for adapting logistic regression to fraud data and business objectives.
-- [my-posts-on-fraud-detection](https://github.com/dglassbrenner1/my-posts-on-fraud-detection) – Series on supervised ML for fraud detection, emphasizing business objectives, metrics, and underlying math.
+- [my-posts-on-fraud-detection](https://github.com/dglassbrenner1/my-posts-on-fraud-detection) – Series on advanced ML for fraud detection, emphasizing business objectives, metrics, and underlying math.
 - [db_fraud_detection](https://github.com/dglassbrenner1/db_fraud_detection) – Databricks dashboard for monitoring fraud analytics and model performance.
 - [hf_fraud_detection_space](https://github.com/dglassbrenner1/hf_fraud_detection_space) – Hugging Face Space deployment of an XGBoost fraud detection model with a Streamlit UI.
 - [dglassbrenner1.github.io](https://dglassbrenner1.github.io) – Portfolio site featuring my math, statistics, fraud, and safety analytics work.
