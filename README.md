@@ -1,45 +1,70 @@
 # Hi, I'm Donna Glassbrenner 👋
 
-Statistician, Data Scientist, and Data Analyst with 20+ years of experience using math and statistics to drive data-informed decisions, now focusing on fraud detection and socially impactful analytics in education and health/safety.
+Statistician & Data Scientist | Math PhD + Deep Stats + ML for Anomaly Detection, Impact Analysis
+
+25 years turning complex data into actionable insights for high-stakes decisions. Currently focused on fraud detection R&D, with experience spanning vehicle safety, education, and national economic indicators.
 
 ---
 
 ## 🔍 About Me
 
-- Proven track record with 21 awards for innovative analyses and cross-functional collaboration.
-- Rare combination of deep mathematics and statistics with applied machine learning experience, providing a comprehensive analytical toolkit.
-- Experienced across the full data analysis lifecycle: formalizing ambiguous objectives, addressing data challenges (reporting lag, missing data, rare events), resolving analytical issues (confounding, uncertainty), and translating results into big-picture implications.
-- Passionate about using custom statistical and analytical solutions where cookie-cutter or "Stats 101/AI" approaches fall short.
+- **PhD mathematician** with deep understanding of ML fundamentals—enabling custom solutions and statistical enhancements that deliver more accurate results than standard approaches alone
+- **21 federal awards** for analytical innovation and cross-functional collaboration
+- **Specialized in:** Anomaly detection, risk quantification, impact measurement
+- **Full analytical lifecycle:** Stakeholder requirements → data challenges (lags, missing data, rare events) → analytical solutions → deployment
+
+**What I bring:**
+- Rare combination: ML exposure + deep statistics/math for insights others miss
+- Custom analytical solutions that outperform off-the-shelf approaches  
+- Clear communication that translates complexity for diverse decision-makers
 
 ---
 
-## 🧪 Focus Areas & Interests
+## 🧪 Domain Experience & Focus Areas
 
-- Fraud detection: combining supervised ML with advanced statistical methods for better predictions and deeper insights.
-- Custom data analyses: hypothesis testing, experimental design, uncertainty quantification, and complex sample designs.
-- Safety and risk analysis: vehicle safety, rare-event modeling, and impact estimation.
-- **Tools: Python (numpy, pandas, matplotlib), SQL, Tableau**
+**Experience:**
+- 24 years vehicle safety analysis and risk assessment (NHTSA)
+- 6 years education
+- 3 years national economic indicators (U.S. Census Bureau)
+- Current: Fraud detection R&D portfolio (8+ open-source projects)
+
+**Methods:** Hypothesis testing, A/B experiments, anomaly detection, machine learning (XGBoost, random forest, neural networks, SVM), imbalanced learning, Monte Carlo simulation, time series analysis, experimental design, variance estimation
+
+**Tools:** Python (pandas, numpy, scikit-learn, matplotlib), SQL, SAS, Tableau, Git/GitHub  
+**Exposure to:** dbt, Databricks, Snowflake, Streamlit, Hugging Face
 
 ---
 
-## 📂 Selected Projects & Portfolio
+## 📂 Featured Projects
 
-- [squeezing-more-info-out-of-fraud-data-w-statistics](https://github.com/dglassbrenner1/squeezing-more-info-out-of-fraud-data-w-statistics) – Using statistical anomaly detection to complement ML fraud models.
-- [how-bad-could-this-emergent-fraud-be](https://github.com/dglassbrenner1/how-bad-could-this-emergent-fraud-be) – Quantifying emergent fraud risk; shows where "AI/Stats 101" underestimates uncertainty by ~30%.
-- [The Math Behind Fraud Detection with Logistic Regression](https://www.linkedin.com/posts/activity-7381712530001387521-W2Cx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFmtAVkBHB1hBzAhZv0QLtcY55Q_sKSUiMk/) – Math foundations for adapting logistic regression to fraud data and business objectives.
-- [my-posts-on-fraud-detection](https://github.com/dglassbrenner1/my-posts-on-fraud-detection) – Series on supervised ML for fraud detection, emphasizing business objectives, metrics, and underlying math.
-- [db_fraud_detection](https://github.com/dglassbrenner1/db_fraud_detection) – Databricks dashboard for monitoring fraud analytics and model performance.
-- [hf_fraud_detection_space](https://github.com/dglassbrenner1/hf_fraud_detection_space) – Hugging Face Space deployment of an XGBoost fraud detection model with a Streamlit UI.
-- [glassbrenner1.github.io](https://glassbrenner1.github.io) – Portfolio site featuring my math, statistics, fraud, and safety analytics work.
+### Statistical Enhancements to ML
+- [squeezing-more-info-out-of-fraud-data-w-statistics](https://github.com/dglassbrenner1/squeezing-more-info-out-of-fraud-data-w-statistics) – Reveals fraud signals ML alone misses
+- [how-bad-could-this-emergent-fraud-be](https://github.com/dglassbrenner1/how-bad-could-this-emergent-fraud-be) – 30% accuracy improvement in estimating potential fraud losses
+- [medical-upcoding-save-tens-of-thousands-per-yr](https://github.com/dglassbrenner1/medical-upcoding-save-tens-of-thousands-per-yr) – Provider-level clustering detecting systematic patterns
 
-For a curated view of these and other projects, visit my portfolio:  
-➡️ [https://dglassbrenner1.github.io](https://dglassbrenner1.github.io)
+### Business Optimization
+- Fraud-FPR trade-off analysis, investigative staffing optimization, cost-sensitive model comparison
+
+### ML Benchmarking & Deployment
+- [my-posts-on-fraud-detection](https://github.com/dglassbrenner1/my-posts-on-fraud-detection) – ML model benchmarking with custom CardPrecision@k/CardRecall@k metrics
+- [db_fraud_detection](https://github.com/dglassbrenner1/db_fraud_detection) – Databricks dashboard for transaction flagging and drift monitoring
+- [hf_fraud_detection_space](https://github.com/dglassbrenner1/hf_fraud_detection_space) – Hugging Face/Streamlit API for interactive predictions
+- [ieee-fraud-detection-dbt](https://github.com/dglassbrenner1/ieee-fraud-detection-dbt) – Snowflake/dbt pipeline for data ingestion and validation
+
+### Technical Expositions
+- [The Math Behind Fraud Detection with Logistic Regression](https://www.linkedin.com/posts/activity-7381712530001387521-W2Cx) – Mathematical foundations of optimization and hyperparameter tuning
+- [Fraud Detection: Same & Different](https://www.linkedin.com/posts/activity-7381711796002439168-cKwA) – How ML for fraud differs from other domains
+
+**Full portfolio:** [dglassbrenner1.github.io](https://dglassbrenner1.github.io)
 
 ---
 
 ## 📫 Connect
 
-- LinkedIn: [Donna Glassbrenner, Ph.D.](https://www.linkedin.com/in/donna-glassbrenner-ph-d)
-- Portfolio: [dglassbrenner1.github.io](https://dglassbrenner1.github.io)
+- **LinkedIn:** [Donna Glassbrenner, Ph.D.](https://www.linkedin.com/in/donna-glassbrenner-ph-d)
+- **Portfolio:** [dglassbrenner1.github.io](https://dglassbrenner1.github.io)
+- **Email:** donna.glassbrenner@gmail.com
 
-I am seeking fully remote, no-travel roles in fraud detection, educational technology, or health and safety, and I'm also open to consulting engagements through Analysis Insights, LLC.
+**Seeking fully remote roles (no travel)** in fraud detection, social impact (education, health, safety), product testing, or manufacturing (avoiding marketing/sales roles). Open to W2 or 1099, full-time or part-time (20-40 hrs/week).
+
+Also available for consulting through **Analysis Insights, LLC**.
