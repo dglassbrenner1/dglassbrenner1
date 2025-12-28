@@ -63,7 +63,6 @@ Statistician & Data Scientist | Math PhD + Deep Stats + ML for Anomaly Detection
 
 - **LinkedIn:** [Donna Glassbrenner, Ph.D.](https://www.linkedin.com/in/donna-glassbrenner-ph-d)
 - **Portfolio:** [dglassbrenner1.github.io](https://dglassbrenner1.github.io)
-- **Email:** donna.glassbrenner@gmail.com
 
 **Seeking fully remote roles (no travel)** in fraud detection, social impact (education, health, safety), product testing, or manufacturing (avoiding marketing/sales roles). Open to W2 or 1099, full-time or part-time (20-40 hrs/week).
 
