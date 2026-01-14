@@ -1,37 +1,30 @@
 # Hi, I'm Donna Glassbrenner 👋
 
-Statistician & Data Scientist | Math PhD + Deep Stats + ML for Anomaly Detection, Impact Analysis
+Data Scientist | Math PhD | 25 Years Solving High-Stakes Analytical Challenges
 
-25 years turning complex data into actionable insights for high-stakes decisions. Currently focused on fraud detection R&D, with experience spanning vehicle safety, education, and national economic indicators.
+Statistical rigor + modern ML for anomaly detection, risk assessment, and impact measurement. Currently: fraud detection research, mathematical consulting, and open-source analytics projects.
 
 ---
 
 ## 🔍 About Me
 
-- **PhD mathematician** with deep understanding of ML fundamentals—enabling custom solutions and statistical enhancements that deliver more accurate results than standard approaches alone
-- **21 federal awards** for analytical innovation and cross-functional collaboration
-- **Specialized in:** Anomaly detection, risk quantification, impact measurement
-- **Full analytical lifecycle:** Stakeholder requirements → data challenges (lags, missing data, rare events) → analytical solutions → deployment
+- **PhD mathematician** specializing in custom analytical solutions that reveal insights standard approaches miss
+- **21 federal awards** for analytical innovation and cross-functional collaboration  
+- **Specialized in:** Anomaly detection, risk quantification, impact measurement, predictive modeling, A/B testing, Monte Carlo simulation, constrained optimization, quantifying uncertainty
+- **Full analytical lifecycle:** Stakeholder requirements → data challenges → analytical solutions → deployment
 
 **What I bring:**
-- Rare combination: ML exposure + deep statistics/math for insights others miss
-- Custom analytical solutions that outperform off-the-shelf approaches  
-- Clear communication that translates complexity for diverse decision-makers
+- Deep statistical foundation enabling custom methods beyond typical data science
+- Production-oriented thinking optimizing for business value
+- Clear communication translating complexity for diverse decision-makers
 
----
-
-## 🧪 Domain Experience & Focus Areas
-
-**Experience:**
+**Experience:** 
 - 24 years vehicle safety analysis and risk assessment (NHTSA)
-- 6 years education
 - 3 years national economic indicators (U.S. Census Bureau)
-- Current: Fraud detection R&D portfolio (8+ open-source projects)
-
-**Methods:** Hypothesis testing, A/B experiments, anomaly detection, machine learning (XGBoost, random forest, neural networks, SVM), imbalanced learning, Monte Carlo simulation, time series analysis, experimental design, variance estimation
-
-**Tools:** Python (pandas, numpy, scikit-learn, matplotlib), SQL, SAS, Tableau, Git/GitHub  
-**Exposure to:** dbt, Databricks, Snowflake, Streamlit, Hugging Face
+- 6 years college teaching
+- fraud detection R&D portfolio (8+ open-source projects)
+- statistical consulting for an automaker
+- mathematical consulting for AI research
 
 ---
 
@@ -61,9 +54,6 @@ Statistician & Data Scientist | Math PhD + Deep Stats + ML for Anomaly Detection
 
 ## 📫 Connect
 
-- **LinkedIn:** [Donna Glassbrenner, Ph.D.](https://www.linkedin.com/in/donna-glassbrenner-ph-d)
-- **Portfolio:** [dglassbrenner1.github.io](https://dglassbrenner1.github.io)
-
-**Seeking fully remote roles (no travel)** in fraud detection, social impact (education, health, safety), product testing, or manufacturing (avoiding marketing/sales roles). Open to W2 or 1099, full-time or part-time (20-40 hrs/week).
-
-Also available for consulting through **Analysis Insights, LLC**.
+**LinkedIn:** [Donna Glassbrenner, Ph.D.](https://www.linkedin.com/in/donna-glassbrenner-ph-d)  
+**Portfolio:** [dglassbrenner1.github.io](https://dglassbrenner1.github.io)  
+**Consulting:** Analysis Insights, LLC - Available for statistical consulting and analytical projects
